@@ -12,3 +12,7 @@ export interface SearchManufacturerPrompts{
     manufacturer:string;
     setmanufacturer:{manufacturer:string} => void;
 }
+
+export interface CarProps{
+    
+}
